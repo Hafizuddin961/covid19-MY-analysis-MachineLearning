@@ -2,7 +2,7 @@
 Full project on Machine Learning using Malaysia Covid-19 dataset<br/>
 **Disclaimer:** This project for **learning** purpose only not for **research**
 
-# Data Science Salary Estimator: Project Overview
+# Covid-19 Case Prediction in Malaysia: Project Overview
 This my second full personal project on data science that include several process which are data collection , data cleaning, make exploratory data analysis(EDA) and applying machine learning model to estimate case on several parameter
 
 * Created a model that estimates covid-19 cases in Malaysia with result of Mean Absolute Error (MAE) ~14 cases
